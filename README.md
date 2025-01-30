@@ -15,7 +15,7 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 
 | Certification | Logo |
 |--------------|------|
-| ITIL 4 | [<img src="imagenes/itil4-300x107-1.jpg" width="100">](#) |
+| ITIL 4 | [<img src="imagenes/itil.png" width="100">](#) |
 | LPIC-1 - Linux Administrator | [<img src="imagenes/LPIC-1-Small.png" width="100">](#) |
 | Microsoft AZ-900 Certified Azure Fundamentals | [<img src="imagenes/azure-fundamentals-600x600-1-300x300.png" width="100">](#) |
 | Microsoft AZ-104 Certified Azure Administrator Associate | [<img src="imagenes/azure-administrator-associate-600x600-1.png" width="100">](#) |
