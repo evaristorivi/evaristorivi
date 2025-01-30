@@ -9,7 +9,7 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 ---
 
 ## 🚀 Technologies Used
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,redhat,ubuntu,debian,windows,apple,kubernetes,py,cloudflare,redis,mongodb,mysql,github,git,fastapi,powershell,elasticsearch,bitbucket)](#)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,redhat,ubuntu,debian,windows,apple,kubernetes,py,cloudflare,redis,mongodb,mysql,git,fastapi,powershell,elasticsearch,bitbucket)](#)
 
 ## 📜 Certifications
 
@@ -31,5 +31,5 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 
 ## 📫 Contact
 
-📧 [LinkedIn](https://www.linkedin.com/in/evaristorivieccio)  
-📌 [GitHub](https://github.com/evaristorivi)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/evaristorivieccio)  
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/evaristorivi)  
