@@ -8,6 +8,11 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 
 ---
 
+## 🚀 Technologies Used
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,redhat,ubuntu,debian,windows,apple,kubernetes,py,cloudflare,redis,mongodb,mysql,github,git,fastapi,powershell,elasticsearch,bitbucket)](https://skillicons.dev)
+
+---
+
 ## 📜 Certifications
 
 | Certification | Logo |
@@ -23,11 +28,6 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 | Certified Kubernetes Administrator (CKA) | <img src="imagenes/cka-certified-kubernetes-administrator.png" width="100"> |
 | AWS Well-Architected Proficient | <img src="imagenes/well-architected-proficient-4.png" width="100"> |
 
-
----
-
-## 🚀 Technologies Used
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,redhat,ubuntu,debian,windows,kubernetes,py,cloudflare,redis,mongodb,github,git,fastapi,powershell,elasticsearch,bitbucket)](https://skillicons.dev)
 ---
 
 ## 📫 Contact
