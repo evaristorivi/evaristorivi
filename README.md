@@ -23,7 +23,7 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 | Microsoft AZ-104 Certified Azure Administrator Associate | [<img src="imagenes/azure-administrator-associate-600x600-1.png" width="100">](#) |
 | Microsoft AI-900 Certified Azure AI Fundamentals | [<img src="imagenes/ai900.png" width="100">](#) |
 | LPIC-1 - Linux Administrator | [<img src="imagenes/LPIC-1.png" width="100">](#) |
-| ITIL 4 | [<img src="imagenes/itil.png" width="100">](#) |
+| ITIL 4 | [<img src="imagenes/itil4-300x107-1.jpg" width="100">](#) |
 | AWS Well-Architected Proficient | [<img src="imagenes/well-architected-proficient-4.png" width="100">](#) |
 
 
