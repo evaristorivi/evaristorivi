@@ -2,9 +2,8 @@
 
 ## 👨‍💻 About Me
 
-Sysadmin with experience in L1 and L2 support, service monitoring, cloud infrastructure operations and maintenance, managing GNU-Linux and Windows servers, and automating tasks using Shell Scripting and Python.  
-
-From 2010 to 2019, I worked in the audiovisual sector, specifically in the field of digital post-production, VFX, and 3D. Over these years, I discovered that my greatest passion lies in tackling technological challenges. This realization led me to redirect my professional career towards System Administration, where I currently enjoy every challenge with the same enthusiasm as the first day.
+Specialist in AWS, Linux system administration and automation with Python and Shell Scripting.
+With more than 6 years of experience, I focus on optimizing infrastructures, managing Linux and Windows servers, and improving processes through scripting and DevOps tools.
 
 ---
 
@@ -12,6 +11,7 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,py,bash,redhat,ubuntu,debian,windows,apple,kubernetes,docker,cloudflare,redis,mongodb,mysql,git,bitbucket,fastapi,powershell,elasticsearch)](#)
 
 ## 📜 Certifications
+Passionate about continuous learning, I have multiple certifications in cloud, system administration and service management:
 
 | Certification | Logo |
 |--------------|------|
