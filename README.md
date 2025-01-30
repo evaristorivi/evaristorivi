@@ -31,5 +31,4 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 
 ## 📫 Contact
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/evaristorivieccio)  
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/evaristorivi)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/evaristorivieccio)  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/evaristorivi)  
