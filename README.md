@@ -28,7 +28,6 @@ From 2010 to 2019, I worked in the audiovisual sector, specifically in the field
 
 ## 🚀 Technologies Used
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,redhat,ubuntu,debian,windows,kubernetes,py,cloudflare,redis,mongodb,github,git,fastapi,powershell,elasticsearch,bitbucket)](https://skillicons.dev)
-
 ---
 
 ## 📫 Contact
