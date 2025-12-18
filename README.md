@@ -24,7 +24,7 @@ Passionate about continuous learning, I have multiple certifications in cloud, s
 | Microsoft AI-900 Certified Azure AI Fundamentals | [<img src="imagenes/ai900.png" width="100">](#) |
 | Microsoft MS-900 Microsoft 365 Certified: Fundamentals | [<img src="imagenes/ms900.png" width="100">](#) |
 | LPIC-1 - Linux Administrator | [<img src="imagenes/LPIC-1.png" width="100">](#) |
-| LPIC-2 - Linux Administrator | [<img src="imagenes/LPIC-2.webp" width="100">](#) |
+| LPIC-2 - Linux Engineer | [<img src="imagenes/LPIC-2.webp" width="100">](#) |
 | ITIL 4 | [<img src="imagenes/itil4-300x107-1.jpg" width="100">](#) |
 | AWS Well-Architected Proficient | [<img src="imagenes/well-architected-proficient-4.png" width="100">](#) |
 
